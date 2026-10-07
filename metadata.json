@@ -1,0 +1,10 @@
+{
+  "name": "College Crush",
+  "description": "The modern college social discovery platform to find friends, crushes, and campus communities.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
